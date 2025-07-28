@@ -40,6 +40,7 @@ A proposta é bem direta: o usuário preenche seu nome e idade, e recebe uma men
 1. Clone ou baixe o repositório
 2. Abra o arquivo `index.html` em qualquer navegador moderno
 3. Preencha os campos e clique em “Enviar”
+4. Netlify - [Clique aqui para acessar o site](https://admirable-marshmallow-bc7519.netlify.app/)
 
 ---
 
